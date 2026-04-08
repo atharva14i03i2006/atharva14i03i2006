@@ -11,7 +11,6 @@ Frameworks/Tools:TensorFlow, PyTorch, OpenCV, React, Unity, Git
  📌 Notable Projects
 - Neural Network Visualization Platform
 - VR-Based Simulation System
-- AI-Powered Drone Detection
 - Disaster Response System
 
 📫 Contact
